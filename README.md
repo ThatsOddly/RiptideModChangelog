@@ -1,5 +1,5 @@
 # Riptide Mod Release Repo
-https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss
+
 This Repository is used to publish Changelog and Releases for Riptide Modification. 
 
 ------------------------
