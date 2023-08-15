@@ -1,7 +1,5 @@
 # Riptide Mod Release Repo
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iRiptideDev)](https://github.com/anuraghazra/github-readme-stats)
-
 This Repository is used to publish Changelog and Releases for Riptide Modification. 
 
 ------------------------
